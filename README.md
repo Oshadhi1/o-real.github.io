@@ -1,4 +1,4 @@
-# o-real.github.io
+# https://oshadhi-vanodhya.github.io/o-real.github.io/primer.html
 <br><br><h2>Virtual Makeup Pro - IIT Cutting Edge Exhibition 1st year project</h2><br><br>
 O'REAL is an makeup application which guides the ladies to do their makeup in the most appropriate way while matching it with various unique criteria.
 <br><br>
